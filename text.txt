@@ -1,0 +1,3 @@
+total 4
+-rw-rw-r-- 1 ron ron    0 Feb 22 14:11 text.txt
+-rw-rw-r-- 1 ron ron 1149 Feb 22 14:06 main.tf
